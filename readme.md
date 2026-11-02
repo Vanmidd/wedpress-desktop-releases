@@ -1,0 +1,1 @@
+# WedPress desktop releases
